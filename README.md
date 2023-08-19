@@ -3,7 +3,7 @@
 
 # JUnit Examples
 
-This repository contains example code snippets demonstrating various concepts related to JUnit and Mockito testing frameworks. Each package within the repository corresponds to a different topic and contains relevant code examples.
+This repository contains example code snippets demonstrating various concepts related to JUnit. Each package within the repository corresponds to a different topic and contains relevant code examples.
 
 ## Contents
 
